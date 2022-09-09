@@ -1,0 +1,1 @@
+export const name = "Lerna with React"
